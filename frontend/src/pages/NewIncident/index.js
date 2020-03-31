@@ -62,7 +62,7 @@ export default function NewIncident() {
                         onChange={e => setDescription(e.target.value)}
                     />
                     <input 
-                        placeholder="Value in R$"
+                        placeholder="Amount"
                         value={value}
                         onChange={e => setValue(e.target.value)}
                     />

@@ -38,6 +38,7 @@ export default function Logon() {
                         placeholder="Your ID"
                         value={id}
                         onChange={e => setId(e.target.value)}
+                        required
                     />
                     <button className="button" type="submit">Enter</button>
                     <Link className="back-link" to="/register">
