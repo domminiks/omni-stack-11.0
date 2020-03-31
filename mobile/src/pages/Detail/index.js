@@ -42,7 +42,7 @@ export default function Detail() {
             </View>
             <View style={styles.incident}>
                 <Text style={[styles.incidentProperty, {marginTop: 0}]}>NGO:</Text>
-                <Text style={styles.incidentValue}>{incident.name} de {incident.city}/{incident.uf}</Text>
+                <Text style={styles.incidentValue}>{incident.name} from {incident.city}/{incident.uf}</Text>
 
                 <Text style={styles.incidentProperty}>Incident:</Text>
                 <Text style={styles.incidentValue}>{incident.title}</Text>
