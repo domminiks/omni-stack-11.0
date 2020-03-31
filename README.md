@@ -1,4 +1,8 @@
-![Be The Hero](/frontend/src/assets/logo.svg)
+<h1 align="center">
+    <img alt="BeTheHero" src="/frontend/src/assets/logo.svg" width="250px">
+</h1>
+
+## Application
 
 This is an application to colaborate to nongovernamental organizations that helps people, animals, environment or any other cause they fight for, to address their problems to people that might finacially help these instituitions.
 
