@@ -51,4 +51,9 @@ expo init
 
 As the Expo application lauches, a QR Code will be generated and you can scan it with your mobile device. This will open the project in your phone inside Expo and you'll be able to try this feature out.
 
+## Screenshots
+
+![mobile_profiles](docs/screenshots/mobile/mobile_profiles.png)
+![mobile_contact](docs/screenshots/mobile/mobile_contact.png)
+
 Feel free to contribute to this project :smile:!
