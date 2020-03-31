@@ -59,4 +59,8 @@ As the Expo application lauches, a QR Code will be generated and you can scan it
 <img alt="Contact Interface" src="docs/screenshots/mobile/mobile_contact.png" width=300>
 </p>
 
+<p align="center">
+<img alt="Homepage" src="docs/screenshots/webapp/web_home.png" width=900>
+</p>
+
 Feel free to contribute to this project :smile:!
