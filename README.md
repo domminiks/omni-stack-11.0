@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img alt="BeTheHero" src="/frontend/src/assets/logo.svg" width="250px">
-</h1>
+<p align="center">
+    <img alt="Be The Hero! logo" src="/frontend/src/assets/logo.svg" width="250px">
+</p>
 
 ## Application
 
