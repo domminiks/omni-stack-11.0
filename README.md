@@ -53,7 +53,8 @@ As the Expo application lauches, a QR Code will be generated and you can scan it
 
 ## Screenshots
 
-![mobile_profiles](docs/screenshots/mobile/mobile_profiles.png)
-![mobile_contact](docs/screenshots/mobile/mobile_contact.png)
+<img src="docs/screenshots/mobile/mobile_splash.png" width=300>
+<img src="docs/screenshots/mobile/mobile_profiles.png" width=300>
+<img src="docs/screenshots/mobile/mobile_contact.png" width=300>
 
 Feel free to contribute to this project :smile:!
