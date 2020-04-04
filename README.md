@@ -71,6 +71,5 @@ As the Expo application lauches, a QR Code will be generated and you can scan it
 
 This project was developed during the OmniStack 11.0 event, hosted by Diego Fernandes, [Rocketseat](https://www.rocketseat.com.br/) CTO.
 
-Thanks a lot, Diego.
 
 And you, feel free to contribute to this project! :smile:
